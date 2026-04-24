@@ -71,7 +71,7 @@ These visualizations provide additional context on portfolio volatility and retu
 
 ### Portfolio Returns Over Time
 
-![Portfolio Returns](Time_Series_of_Portfolio_Returns.webp)
+![Portfolio Returns](images/Time_Series_of_Portfolio_Returns.webp)
 
 ---
 
