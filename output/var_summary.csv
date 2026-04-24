@@ -1,0 +1,8 @@
+Metric,Value
+Portfolio Variance,3.9480199492919635e-05
+Portfolio Daily Std Dev,0.006283327103765937
+Historical VaR 90%,654.1982659999999
+Historical VaR 95%,1042.1707565
+Historical VaR 99%,1556.541402
+Parametric VaR 1-Day (95%),1033.6073085694966
+Parametric VaR 10-Day (95%),3268.553301276084
