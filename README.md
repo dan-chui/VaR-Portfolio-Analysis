@@ -2,6 +2,8 @@
 
 A multi-asset VaR model built in Excel and Python, demonstrating portfolio risk aggregation, covariance-based analysis, and reproducible data workflows.
 
+📄 Blog write-up: [Happy Bytes](https://happy-bytes.vercel.app/blogs/var_portfolio_analysis)
+
 ## Overview
 
 This project estimates portfolio risk using both **Historical VaR** and **Parametric VaR (Variance-Covariance method)** for a diversified multi-asset portfolio.
